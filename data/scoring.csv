@@ -1,0 +1,4 @@
+﻿category,wr_y1,wr_y1-y3,rb_y1,rb_y1-y3
+Train MAE,1.55,1.78,2.05,2
+Test MAE,1.82,1.86,2.38,2.13
+Baseline MAE,2.03,2.32,2.48,2.64

@@ -1,0 +1,5 @@
+*.pyc
+todo.txt
+*.xlsx
+.DS_Store
+env
